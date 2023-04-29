@@ -1,5 +1,4 @@
 # Brendan O'Connor GitHub Profile
-
 ---
 
 ## Main Programming Languages
